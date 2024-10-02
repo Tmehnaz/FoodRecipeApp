@@ -1,0 +1,16 @@
+.searchContainer{
+    margin: 20px auto;
+    width:700px;
+    position: relative;
+}
+
+.inputBox{
+    padding: 10px 8px;
+    border:none;
+    border-bottom: 1px solid rgb(206, 205, 200);
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    color: rgb(137, 5, 5);
+
+}

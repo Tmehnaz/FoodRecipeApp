@@ -1,0 +1,34 @@
+.recipeCard{
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgb(0,0,0,0.5);
+    border-radius: 8px;
+}
+.recipeName{
+    font: 20px;
+    margin-bottom: 10px;
+}
+.recipeImage{
+    max-width: 100%;
+}
+.recipeDetails{
+    margin: 20px 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.recipeInstructions{
+    padding: 0;
+    border-radius: 5px;
+    color: rgb(70, 67, 67);
+
+}
+.recipeInstructions ol {
+    margin-left: 0px;
+
+}
+.recipeInstructions li{
+    margin: 10px 2px;
+}
