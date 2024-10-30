@@ -1,4 +1,4 @@
-FoodRecipeApp"
+FoodRecipeApp: 
 This is a simple react project where I tried to fetch third party api(spoonacular) to generate food recipes and ingredients used. Using this api I displayed the image of the of targeted recipe
 and the ingredients in sorted manner. User can look up for the recipe and the item is displayed as the per click and preference.
 
